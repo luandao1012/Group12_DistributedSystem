@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="primary">#FF2196F3</color>
+    <color name="primary_dark">#FF1976D2</color>
+    <color name="primary_light">#FFBBDEFB</color>
+    <color name="accent">#FFFF4081</color>
+    <color name="secondary">#FF757575</color>
+    <color name="gray">#FF9E9E9E</color>
+    <color name="light_gray">#FFF5F5F5</color>
+    <color name="dark_gray">#FF424242</color>
+    <color name="error">#FFF44336</color>
+    <color name="success">#FF4CAF50</color>
+    <color name="warning">#FFFF9800</color>
+    <color name="info">#FF2196F3</color>
+
+    <color name="google_red">#FFDB4437</color>
+    <color name="facebook_blue">#FF4267B2</color>
+
+    <color name="red">#FFF44336</color>
+    <color name="blue">#FF2196F3</color>
+    <color name="gray_light">#FFF5F5F5</color>
+
+    <color name="colorPrimary">#FF2196F3</color>
+    <color name="colorPrimaryDark">#FF1976D2</color>
+    <color name="colorAccent">#FFFF4081</color>
+    <color name="chat_background">#FFF8F8F8</color>
+
+    <color name="primary_color">#FF2196F3</color>
+    <color name="accent_color">#FFFF4081</color>
+
+    <color name="background">#FFFAFAFA</color>
+    <color name="surface">#FFFFFFFF</color>
+</resources>

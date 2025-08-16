@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96541183041",
+    "project_id": "chatp2papplication",
+    "storage_bucket": "chatp2papplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96541183041:android:2b7fd5b8e84ec146ab8ac0",
+        "android_client_info": {
+          "package_name": "com.example.chat_p2p_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2oJOhZo3ZiCXiI_Hokk0rYr4sE0nZeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
